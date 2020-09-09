@@ -1,0 +1,30 @@
+.update_user-card{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    border: 1px solid black;
+    left: 385px;
+    text-align: center;
+    border-radius: 10px;
+    flex-direction: column;
+    padding: 20px 40px;
+    margin-top: 50px;;
+    border-radius: 10px;
+    box-shadow: 0px 10px 50px #555;
+    background-color: #ffffff;
+}
+.update_name{
+    font-family: monospace;
+}
+.update_pass{
+    font-family: monospace;
+}
+.update_button{
+    background-color: #776d8a;
+    color: white;
+}
+.update_button:hover{
+    cursor: pointer;
+    transition: ease-out;
+}

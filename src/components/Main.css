@@ -1,0 +1,40 @@
+header {
+  height: 50px;
+  width: 100%;
+  background-color: #f3e6e3;
+  align-items: center;
+  font-family: monospace;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+#navBar {
+  height: 100vh;
+  width: 200px;
+  background-color: #776d8a;
+  margin-top: -207px;
+  color: black;
+}
+
+#nav_list li {
+  font-style: normal;
+  font-family: monospace;
+  text-emphasis: none;
+  list-style: none;
+  font-display: bold;
+  position: relative;
+  top: 50px;
+  left: 30px;
+  padding: 25px;
+  width: 200px;
+  left: -70px;
+}
+hr {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+#prof {
+  position: relative;
+  top: 120px;
+  left: 50px;
+}

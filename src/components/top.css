@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    font-size: 25px;
+}
+ul li{
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 25px;
+    text-align: center;
+    text-emphasis: none;
+    position: relative;
+    float: left;
+    left: 470px;
+}
+#top-container{
+    height: 100px;
+    top: 0%;
+    background: #d3d3d3;
+}
+ul li:hover{
+    color: ivory;
+    cursor: pointer;
+}
+Link{
+    text-decoration: black;
+}

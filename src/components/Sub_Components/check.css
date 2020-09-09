@@ -1,0 +1,32 @@
+.check{
+    position: relative;
+    top: 50px;
+}
+.check_main{
+    position: relative;
+    top: 50px;
+    left: 325px;
+}
+
+.main_table{
+    width: 500px;
+    background-color: #dbe3e5;  
+    border: 1px solid black;
+    border-collapse: collapse;
+    column-span: 2;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.content_table {
+    width: 500px;
+    background-color: #f3e6e3; 
+    border: 1px solid black;
+    border-collapse: collapse;
+    column-span: 2;
+    font-family: monospace;
+    font-size: 15px;
+}
+.content_table tr td{
+    padding-left: 90px;  
+}

@@ -1,0 +1,23 @@
+#profile_container {
+  width: 300px;
+  position: relative;
+  top: 50px;
+  border: 1px solid black;
+  left: 385px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: black;
+  flex-direction: column;
+  padding: 20px 40px;
+  margin-top: 50px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+h1,
+h3 {
+  align-content: center;
+  color: black;
+  text-align: center;
+  font-family: monospace;
+  text-decoration: none;
+}
